@@ -1,0 +1,12 @@
+
+.venv/
+.venv314/
+venv/
+__pycache__/
+*.py[cod]
+users.db
+voice_samples/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
